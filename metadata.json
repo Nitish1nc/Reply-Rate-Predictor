@@ -1,0 +1,5 @@
+{
+  "name": "Reply Rate Forecaster",
+  "description": "A simple tool for cold-email marketers to input campaign metrics and instantly see projected replies, meetings, and ROI.",
+  "requestFramePermissions": []
+}
